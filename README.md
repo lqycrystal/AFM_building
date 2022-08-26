@@ -1,5 +1,7 @@
 # AFM_building
-This is the code for our paper "Building footprint generation through convolutional neural networks with attraction field representation". And the pretrained model is https://drive.google.com/drive/folders/1epUsdzlztWtMYSwDl9nBXwCbYmiHHyf2?usp=sharing
+This is the code for our paper "Building footprint generation through convolutional neural networks with attraction field representation", which is published in IEEE Transactions on Geoscience and Remote Sensing.
+
+And the pretrained model is https://drive.google.com/drive/folders/1epUsdzlztWtMYSwDl9nBXwCbYmiHHyf2?usp=sharing
 
 If you find this code is helpful to you, please cite:
 
